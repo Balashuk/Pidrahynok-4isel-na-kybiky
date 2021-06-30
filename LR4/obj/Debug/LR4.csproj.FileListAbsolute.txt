@@ -1,0 +1,13 @@
+C:\Users\Olezha\Desktop\Учёба\Алгоритмізація 2 курс 1 семестр\номер4\LR4\LR4\bin\Debug\LR4.exe.config
+C:\Users\Olezha\Desktop\Учёба\Алгоритмізація 2 курс 1 семестр\номер4\LR4\LR4\bin\Debug\LR4.exe
+C:\Users\Olezha\Desktop\Учёба\Алгоритмізація 2 курс 1 семестр\номер4\LR4\LR4\bin\Debug\LR4.pdb
+C:\Users\Olezha\Desktop\Учёба\Алгоритмізація 2 курс 1 семестр\номер4\LR4\LR4\obj\Debug\LR4.csprojResolveAssemblyReference.cache
+C:\Users\Olezha\Desktop\Учёба\Алгоритмізація 2 курс 1 семестр\номер4\LR4\LR4\obj\Debug\LR4.exe
+C:\Users\Olezha\Desktop\Учёба\Алгоритмізація 2 курс 1 семестр\номер4\LR4\LR4\obj\Debug\LR4.pdb
+C:\Users\gamey\Desktop\LR4\LR4\bin\Debug\LR4.exe.config
+C:\Users\gamey\Desktop\LR4\LR4\bin\Debug\LR4.exe
+C:\Users\gamey\Desktop\LR4\LR4\bin\Debug\LR4.pdb
+C:\Users\gamey\Desktop\LR4\LR4\obj\Debug\LR4.csprojAssemblyReference.cache
+C:\Users\gamey\Desktop\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\gamey\Desktop\LR4\LR4\obj\Debug\LR4.exe
+C:\Users\gamey\Desktop\LR4\LR4\obj\Debug\LR4.pdb
